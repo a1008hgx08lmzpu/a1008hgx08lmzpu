@@ -5,8 +5,8 @@
     "C",
     "C++",
     "JS",
-    "Python"
-    "Lua"
+    "Python",
+    "Lua",
     "GO"
   ]
 }
