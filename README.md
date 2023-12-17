@@ -1,5 +1,15 @@
 ```json
-test
+{
+  "langs": [
+    "Rust",
+    "C",
+    "C++",
+    "JS",
+    "Python"
+    "Lua"
+    "GO"
+  ]
+}
 ```
 <!--
 **a1008hgx08lmzpu/a1008hgx08lmzpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
